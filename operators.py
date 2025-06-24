@@ -1,0 +1,12 @@
+a=12
+b=-13
+c=-12.12
+d=13.0
+e=3+2j
+f=4+1j
+g="abc"
+h="dcs"
+print(a**b)
+print(a**d)
+print(a**e)
+print(a**g)
